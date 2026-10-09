@@ -1,0 +1,22 @@
+export const HERO_IMAGE = '/src/assets/images/hero_fighter_arena_1791222653701.jpg';
+export const BOXING_GLOVES_IMAGE = '/src/assets/images/product_boxing_gloves_1791222666962.jpg';
+export const RASHGUARD_IMAGE = '/src/assets/images/product_rashguard_pro_1791222678906.jpg';
+export const SHIN_GUARDS_IMAGE = '/src/assets/images/product_shin_guards_1791222690223.jpg';
+
+// Authentic Octagon catalog images
+export const HOODIE_IMAGE = '/src/assets/images/octagon_hoodie_heavyweight_1791489790293.jpg';
+export const TSHIRT_IMAGE = '/src/assets/images/octagon_tshirt_classic_1791489806530.jpg';
+export const JOGGER_IMAGE = '/src/assets/images/octagon_sweatpants_jogger_1791489821727.jpg';
+export const MMA_SHORTS_IMAGE = '/src/assets/images/octagon_mma_shorts_1791489837431.jpg';
+export const CAMO_GLOVES_IMAGE = '/src/assets/images/octagon_camo_gloves_1791489854762.jpg';
+export const HEADGUARD_IMAGE = '/src/assets/images/octagon_headguard_helmet_1791489873432.jpg';
+export const DUFFLE_BAG_IMAGE = '/src/assets/images/octagon_duffle_bag_1791489895322.jpg';
+export const LEGGINGS_IMAGE = '/src/assets/images/octagon_women_leggings_1791489912633.jpg';
+export const MUAY_THAI_SHORTS_IMAGE = '/src/assets/images/octagon_muay_thai_shorts_1791489936514.jpg';
+export const WAIST_BAG_IMAGE = '/src/assets/images/octagon_waist_bag_1791490547802.jpg';
+export const SNAPBACK_IMAGE = '/src/assets/images/octagon_snapback_cap_1791490566595.jpg';
+export const THAI_PADS_IMAGE = '/src/assets/images/octagon_thai_pads_1791490968546.jpg';
+export const HEAVY_BAG_IMAGE = '/src/assets/images/octagon_heavy_bag_1791490987737.jpg';
+export const WINDBREAKER_IMAGE = '/src/assets/images/octagon_windbreaker_1791491004603.jpg';
+export const BACKPACK_IMAGE = '/src/assets/images/octagon_backpack_1791493021943.jpg';
+export const BEANIE_IMAGE = '/src/assets/images/octagon_beanie_hat_1791493042979.jpg';

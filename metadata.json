@@ -1,0 +1,6 @@
+{
+  "name": "OctagonSportNL",
+  "description": "Premium professional fightwear & combat sports equipment online store in the Netherlands for MMA, boxing, kickboxing, and grappling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
